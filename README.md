@@ -22,7 +22,7 @@ It is a React Todo app with simple interface that allows adding, deleting, editi
 
 ## Screenshot
 
-![Todo App screenshot](https://github.com/huseyineskan/react-todo-app/blob/main/src/assets/todo-app.gif)
+![Todo App screenshot](https://github.com/huseyineskan/react-todo-app/blob/main/src/todo-app.gif)
 
 ## db.json Example
 
